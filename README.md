@@ -3,3 +3,4 @@
 사용 언어 : python, SQL
 
 📂 [프로그래머스/파이썬](https://github.com/convin305/Coding_test/tree/main/programmers/python)
+📂 [프로그래머스/SQL](https://github.com/convin305/Coding_test/tree/main/programmers/SQL)
