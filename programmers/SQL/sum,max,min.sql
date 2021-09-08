@@ -1,0 +1,11 @@
+# 가장 최근에 들어온 시간은 언제인지 찾기
+SELECT MAX(DATETIME) AS 시간 FROM ANIMAL_INS
+
+# 가장 먼저 들어온 시간은 언제인지 찾기
+SELECT MIN(DATETIME) 시간 FROM ANIMAL_INS
+
+# 동물 수 구하기
+SELECT COUNT(ANIMAL_ID) FROM ANIMAL_INX
+
+# 중복 제거한 이름 수 구하기
+SELECT COUNT(DISTINCT NAME)  FROM ANIMAL_INS
