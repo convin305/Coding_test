@@ -1,0 +1,4 @@
+def solution(ph_n):
+  star_num = len(ph_n)-4
+  answer = '*'*star_num + ph_n[-4:]
+  return answer
